@@ -10,7 +10,7 @@ To run the game, follow these steps:
 
 2. Clone or download the repository onto your system:
     ```
-    [git clone https://github.com/your_username/your_repository.git](https://github.com/Amirho3einzM/Pig-game.git)
+    https://github.com/Amirho3einzM/Pig-game.git
     ```
 
 3. Navigate to the game directory:
