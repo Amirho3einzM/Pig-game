@@ -49,7 +49,7 @@ With these simple and engaging rules, I hope you'll have a great time playing th
 
 ## Efforts Put Into Developing This Program
 
-This game is not just a simple project; it's the result of considerable efforts made to improve its quality and performance. A lot of time and energy have been invested in implementing the best algorithm for guessing objects, improving the user interface, and enhancing the written code. I hope you enjoy this game and also learn new things in the field of programming.
+This game is not just a simple project; it's the result of considerable efforts made to improve its quality and performance. I hope you enjoy this game and also learn new things in the field of programming.
 
 ## Contribution
 
@@ -112,7 +112,7 @@ Thank you for trying out this program!
 
 ## تلاش‌های انجام شده برای توسعه این برنامه
 
-این بازی فقط یک پروژه ساده نیست؛ این نتیجه تلاش‌های گسترده‌ای است که برای بهبود کیفیت و عملکرد آن انجام شده است. زمان و انرژی زیادی صرف پیاده‌سازی بهترین الگوریتم برای حدس اشیاء، بهبود رابط کاربری و بهبود کدنویسی شده است. امیدوارم از این بازی لذت ببرید و همچنین در زمینه برنامه‌نویسی چیزهای جدیدی یاد بگیرید.
+این بازی فقط یک پروژه ساده نیست؛ این نتیجه تلاش‌های گسترده‌ای است که برای بهبود کیفیت و عملکرد آن انجام شده است. . امیدوارم از این بازی لذت ببرید و همچنین در زمینه برنامه‌نویسی چیزهای جدیدی یاد بگیرید.
 
 ## همکاری
 
