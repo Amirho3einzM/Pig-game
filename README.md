@@ -1,6 +1,6 @@
 # Python Pig Game
 
-This is a simple game known as "Pig" written in the Python programming language. This game allows you to think of an object's name, and the program asks you questions that can help it guess the object you're thinking of.
+This is a simple game known as "Pig" written in the Python programming language.The game involves 2 dice, and the rules and procedure for playing it are provided below.
 
 ## Installation and Execution
 
@@ -63,7 +63,7 @@ Thank you for trying out this program!
 ---
 # بازی پیگ (خوک) با پایتون
 
-این یک بازی ساده به نام "خوک" است که با زبان برنامه‌نویسی پایتون نوشته شده است. این بازی به شما اجازه می‌دهد یک نام اشیاء را در نظر بگیرید و برنامه سوالاتی می‌پرسد که به او کمک می‌کند شیءی که در ذهن دارید را حدس بزند.
+این یک بازی ساده به نام "خوک" است که با زبان برنامه‌نویسی پایتون نوشته شده است. بازی با 2 تاس است و قوانین و روش اجرا آن در ادامه آمده است.
 
 ## نصب و اجرا
 
