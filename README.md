@@ -1,4 +1,4 @@
-# README for a Python Game
+# Python Pig Game
 
 This is a simple game known as "Pig" written in the Python programming language. This game allows you to think of an object's name, and the program asks you questions that can help it guess the object you're thinking of.
 
@@ -61,7 +61,7 @@ For any questions or suggestions, feel free to contact me. My contact informatio
 
 Thank you for trying out this program!
 ---
-# README برای یک بازی پایتون
+# بازی پیگ (خوک) با پایتون
 
 این یک بازی ساده به نام "خوک" است که با زبان برنامه‌نویسی پایتون نوشته شده است. این بازی به شما اجازه می‌دهد یک نام اشیاء را در نظر بگیرید و برنامه سوالاتی می‌پرسد که به او کمک می‌کند شیءی که در ذهن دارید را حدس بزند.
 
